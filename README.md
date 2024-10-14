@@ -40,4 +40,31 @@ Today I Learned Machine Learning @ toss bank MLOps course
 * Text Mining - WordCloud
 * Text Mining - Text Classification
 * Text Mining - Document Clustering, Document Similarity
-* Teext Mining - Topic Modeling
+* Text Mining - Topic Modeling<br>
+## Deep Learning
+1. 딥러닝 기초
+* 퍼셉트론
+* 활성화 함수
+* 행렬 내적
+* 행렬과 신경망
+* 출력층 설계
+* 손실 함수
+* 수치미분과 경사하강법
+* 역전파
+* 오차 역전파를 이용한 신경망 구현<br>
+2. PyTorch
+* PyTorch Framework
+* PyTorch DataSet, DataLoader
+* PyTorch Modeling
+* PyTorch Model Training & Validation
+* Model Save & Load
+* Regularization
+* Learning Rate Scheduler
+* Initialization<br>
+3. Computer Vision
+* CNN Layers
+* CNN Filter
+* MNIST classification
+* CIFAR10 Feature Map
+* Inception V1
+* ResNet<br>
